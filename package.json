@@ -1,0 +1,19 @@
+{
+  "name": "animation",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^14.2.0",
+    "jwt-decode": "^3.1.2",
+    "three": "^0.136.0"
+  }
+}
